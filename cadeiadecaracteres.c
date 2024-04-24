@@ -1,7 +1,6 @@
 /*
-* Descrição: Projeto que manipula vetores a fim de concatenear os vetores nome e sobrenome dentro do vetor nomecompleto, além de manipular as letras no vetor
-* completo, as transformando em maiúsculas e minúsculas e adcionando um sistema de busca dentro do vetor final.
-*
+* Descrição: Projeto que manipula vetores a fim de concatenar os vetores nome e sobrenome dentro do vetor nomecompleto, manipular o formato e conteúdo do vetor,
+* o convertendo para letras maiúsculas e minúsculas, além de adcionar um sistema de busca dentro do vetor final.
 *
 * Autor: Thiago Martins
 */
